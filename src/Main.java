@@ -52,7 +52,7 @@ public class Main {
         }if (isError){
             System.out.println("You entered wrong type of value !!");
         }else {
-            System.out.println("Your Chinese Zodiac " + horoscope);
+            System.out.println("Your Chinese Zodiac : " + horoscope);
         }
 
         }
